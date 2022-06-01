@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning JS
-- 📫[My Blog](http://blog.songen.buzz)
+- 📫 [My Blog](http://blog.songen.buzz)
 <!--
 **songenen/songenen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
